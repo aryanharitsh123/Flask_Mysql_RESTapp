@@ -1,0 +1,4 @@
+CREATE DATABASE students;
+use students;
+CREATE TABLE student (ID INT NOT NULL,Name VARCHAR(100) NOT NULL,Age INT NOT NULL,Spec VARCHAR(50),PRIMARY KEY(ID));
+SET GLOBAL connect_timeout = 600;

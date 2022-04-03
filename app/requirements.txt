@@ -1,0 +1,4 @@
+Flask
+Flask_RESTful
+mysql-connector-python
+Jinja2
